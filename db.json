@@ -21,7 +21,8 @@
       "title": "hello from id 5 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas fermentum lectus vel dapibus. Aenean vulputate a odio condimentum vulputate. Nullam ornare sollicitudin ligula, eget vulputate metus aliquam vel. Curabitur eu ligula tincidunt, pulvinar odio non, imperdiet purus. Integer porta nec arcu quis pulvinar. Aenean a aliquet massa. Proin posuere dui non mi laoreet placerat. Donec vitae congue nisi, a volutpat lorem. Curabitur rutrum non est vitae condimentum. Quisque aliquam, orci vel vehicula posuere, mauris nibh iaculis massa, ac elementum enim nunc non tortor."
     }
   ],
-  "slider": [{
+  "slider": [
+    {
       "id": 1,
       "nama": "Slider 1",
       "url": "https://placeimg.com/300/150/nature",
@@ -55,5 +56,6 @@
       "url": "https://placeimg.com/300/150/people",
       "created_at": "2019-03-05 06:16:26",
       "updated_at": null
-    }]
+    }
+  ],
 }
