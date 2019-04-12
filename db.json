@@ -1,24 +1,29 @@
 {
-  "posts": [
+  "data": [
     {
       "id": 1,
-      "title": "id 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas fermentum lectus vel dapibus. Aenean vulputate a odio condimentum vulputate. Nullam ornare sollicitudin ligula, eget vulputate metus aliquam vel. Curabitur eu ligula tincidunt, pulvinar odio non, imperdiet purus. Integer porta nec arcu quis pulvinar. Aenean a aliquet massa. Proin posuere dui non mi laoreet placerat. Donec vitae congue nisi, a volutpat lorem. Curabitur rutrum non est vitae condimentum. Quisque aliquam, orci vel vehicula posuere, mauris nibh iaculis massa, ac elementum enim nunc non tortor."
+      "nama_warung": "Warung X",
+      "thumbnail": "https://via.placeholder.com/150x150.png",
+      "cover_img": "https://via.placeholder.com/400x250.png",
+      "alamat": "Jl. Ahmad Yani No 12, Putusibau Selatan",
+      "jam": "Buka 12.00 - 20.00 WIB"
     },
     {
       "id": 2,
-      "title": "id 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas fermentum lectus vel dapibus. Aenean vulputate a odio condimentum vulputate. Nullam ornare sollicitudin ligula, eget vulputate metus aliquam vel. Curabitur eu ligula tincidunt, pulvinar odio non, imperdiet purus. Integer porta nec arcu quis pulvinar. Aenean a aliquet massa. Proin posuere dui non mi laoreet placerat. Donec vitae congue nisi, a volutpat lorem. Curabitur rutrum non est vitae condimentum. Quisque aliquam, orci vel vehicula posuere, mauris nibh iaculis massa, ac elementum enim nunc non tortor."
+      "nama_warung": "Warung Y",
+      "thumbnail": "https://via.placeholder.com/150x150.png",
+      "cover_img": "https://via.placeholder.com/400x250.png",
+      "alamat": "Jl. Ahmad Yani No 12, Putusibau Selatan",
+      "jam": "Buka 12.00 - 20.00 WIB"
     },
     {
       "id": 3,
-      "title": "hello from id 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas fermentum lectus vel dapibus. Aenean vulputate a odio condimentum vulputate. Nullam ornare sollicitudin ligula, eget vulputate metus aliquam vel. Curabitur eu ligula tincidunt, pulvinar odio non, imperdiet purus. Integer porta nec arcu quis pulvinar. Aenean a aliquet massa. Proin posuere dui non mi laoreet placerat. Donec vitae congue nisi, a volutpat lorem. Curabitur rutrum non est vitae condimentum. Quisque aliquam, orci vel vehicula posuere, mauris nibh iaculis massa, ac elementum enim nunc non tortor."
+      "nama_warung": "Warung Z",
+      "thumbnail": "https://via.placeholder.com/150x150.png",
+      "cover_img": "https://via.placeholder.com/400x250.png",
+      "alamat": "Jl. Ahmad Yani No 12, Putusibau Selatan",
+      "jam": "Buka 12.00 - 20.00 WIB"
     },
-    {
-      "id": 4,
-      "title": "hello from id 4 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas fermentum lectus vel dapibus. Aenean vulputate a odio condimentum vulputate. Nullam ornare sollicitudin ligula, eget vulputate metus aliquam vel. Curabitur eu ligula tincidunt, pulvinar odio non, imperdiet purus. Integer porta nec arcu quis pulvinar. Aenean a aliquet massa. Proin posuere dui non mi laoreet placerat. Donec vitae congue nisi, a volutpat lorem. Curabitur rutrum non est vitae condimentum. Quisque aliquam, orci vel vehicula posuere, mauris nibh iaculis massa, ac elementum enim nunc non tortor."
-    },
-    {
-      "id": 5,
-      "title": "hello from id 5 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas fermentum lectus vel dapibus. Aenean vulputate a odio condimentum vulputate. Nullam ornare sollicitudin ligula, eget vulputate metus aliquam vel. Curabitur eu ligula tincidunt, pulvinar odio non, imperdiet purus. Integer porta nec arcu quis pulvinar. Aenean a aliquet massa. Proin posuere dui non mi laoreet placerat. Donec vitae congue nisi, a volutpat lorem. Curabitur rutrum non est vitae condimentum. Quisque aliquam, orci vel vehicula posuere, mauris nibh iaculis massa, ac elementum enim nunc non tortor."
-    }
+    
   ]
 }
