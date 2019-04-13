@@ -12,14 +12,7 @@
       "harga": "Rp 20.000",
       "deskripsi": "Ayam Lengkap, Sambal, Tahu, Sup"
     },
-     {
-      "id": 1,
-      "nama_warung": "Warung X",
-      "thumbnail": "https://via.placeholder.com/150x150.png",
-      "cover_img": "https://via.placeholder.com/400x250.png",
-      "alamat": "Jl. Ahmad Yani No 12, Putusibau Selatan",
-      "jam": "Buka 12.00 - 20.00 WIB"
-    },
+     
     {
      "id_makanan": 2,
       "nama_makanan":"Makanan C",
@@ -34,14 +27,7 @@
       "harga": "Rp 20.000",
       "deskripsi": "Ayam Lengkap, Sambal, Tahu, Sup"
     },
-     {
-      "id": 1,
-      "nama_warung": "Warung X",
-      "thumbnail": "https://via.placeholder.com/150x150.png",
-      "cover_img": "https://via.placeholder.com/400x250.png",
-      "alamat": "Jl. Ahmad Yani No 12, Putusibau Selatan",
-      "jam": "Buka 12.00 - 20.00 WIB"
-    },
+    
     {
      "id_makanan": 2,
       "nama_makanan":"Makanan F",
