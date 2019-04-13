@@ -2,14 +2,16 @@
       "id_makanan": 2,
       "nama_makanan":"Makanan A",
       "cover_img": "https://via.placeholder.com/400x250.png",
-      "harga": "Rp 20.000",
+      "harga_modify": "Rp 20.000",
+      "harga": 20000,
       "deskripsi": "Ayam Lengkap, Sambal, Tahu, Sup"
     },
     {
      "id_makanan": 2,
       "nama_makanan":"Makanan B",
       "cover_img": "https://via.placeholder.com/400x250.png",
-      "harga": "Rp 20.000",
+      "harga_modify": "Rp 20.000",
+      "harga": 20000,
       "deskripsi": "Ayam Lengkap, Sambal, Tahu, Sup"
     },
      
@@ -17,14 +19,16 @@
      "id_makanan": 2,
       "nama_makanan":"Makanan C",
       "cover_img": "https://via.placeholder.com/400x250.png",
-      "harga": "Rp 20.000",
+     "harga_modify": "Rp 20.000",
+      "harga": 20000,
       "deskripsi": "Ayam Lengkap, Sambal, Tahu, Sup"
     },
     {
      "id_makanan": 2,
       "nama_makanan":"Makanan D",
       "cover_img": "https://via.placeholder.com/400x250.png",
-      "harga": "Rp 20.000",
+     "harga_modify": "Rp 20.000",
+      "harga": 20000,
       "deskripsi": "Ayam Lengkap, Sambal, Tahu, Sup"
     },
     
@@ -32,7 +36,8 @@
      "id_makanan": 2,
       "nama_makanan":"Makanan F",
       "cover_img": "https://via.placeholder.com/400x250.png",
-      "harga": "Rp 20.000",
+     "harga_modify": "Rp 20.000",
+      "harga": 20000,
       "deskripsi": "Ayam Lengkap, Sambal, Tahu, Sup"
     } 
      ],
